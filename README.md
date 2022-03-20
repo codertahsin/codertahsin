@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Ahnaf Tahsin
+### Hi there, My name is Ahnaf Tahsin
 #### I am Software Engineer.
 To contribute myself as a professional and person in the field of Software and Software Engineering. I am looking for opportunities which will combine my work and experiences in the broad area of Software Engineering.
 
