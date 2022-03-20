@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Ahnaf Tahsin
 #### I am Software Engineer.
-![I am Software Engineer.](file:///G:/picture/Tahsin.jpg)
+![I am Software Engineer.](https//:file:///G:/picture/Tahsin.jpg)
 
 To contribute myself as a professional and person in the 
 field of Software and Software Engineering.
