@@ -1,11 +1,12 @@
 ### Hi there, My name is Ahnaf Tahsin
-#### I am Front-end Developer.
-To contribute myself as a professional and person in the field of web and Web Development. I am looking for opportunities which will combine my work and experiences in the broad area of Web Developer.
 
-Skills:  React/NodeJS/Python/JS
+#### I am Front-end Developer.
+I am a highly- dedicated, enthusiastic, certified individual who is looking for a Programming position where I can utilize my skills and experience in designing, developing, implementing and maintaining applications according to clients requirements. I am a highly- dedicated, enthusiastic, certified individual who is looking for a Programming position where I can utilize my skills and experience in designing, developing, implementing and maintaining applications according to clients requirements.
+
+Skills:  JavaScript/ReactJS/NextJS/
 
 - 🔭 I’m currently working on Hablu Coder 
-- 🌱 I’m currently learning Angular and Express 
+- 🌱 I’m currently learning Node
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Software Development 
 
