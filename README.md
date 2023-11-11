@@ -1,9 +1,9 @@
 ### Hi there, I&apos;m Ahnaf Tahsin
 
-#### I am Full Stack Engineer.
+#### Im React Developer.
 I am a highly- dedicated, enthusiastic, certified individual who is looking for a Programming position where I can utilize my skills and experience in designing, developing, implementing and maintaining applications according to clients requirements. I am a highly- dedicated, enthusiastic, certified individual who is looking for a Programming position where I can utilize my skills and experience in designing, developing, implementing and maintaining applications according to clients requirements.
 
-Skills:  JavaScript/ReactJS/NextJS/
+Skills:  JavaScript/ReactJS/NextJS/TypeScript
 
 - 🌱 I’m currently learning Node
 - 👯 I’m looking to collaborate on GitHub 
